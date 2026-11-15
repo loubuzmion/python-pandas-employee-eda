@@ -5,7 +5,7 @@ A practical data wrangling and Exploratory Data Analysis (EDA) project built usi
 
 ---
 
-## 🛠️ Core Skills & Techniques Covered
+## Core Skills & Techniques Covered
 This project demonstrates core data science and data engineering operations in Python:
 * **DataFrame Initialization & Inspection:** Creating structured DataFrames from dictionaries and inspecting data summaries using `.describe()` and `.isnull()`[cite: 17].
 * **Data Transformation:** Engineering new features (calculating `years_to_retirement` from age), renaming columns (`salary` ➡️ `annual_salary`), and multi-level sorting[cite: 17].
