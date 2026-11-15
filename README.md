@@ -8,7 +8,7 @@ A practical data wrangling and Exploratory Data Analysis (EDA) project built usi
 ## Core Skills & Techniques Covered
 This project demonstrates core data science and data engineering operations in Python:
 * **DataFrame Initialization & Inspection:** Creating structured DataFrames from dictionaries and inspecting data summaries using `.describe()` and `.isnull()`[cite: 17].
-* **Data Transformation:** Engineering new features (calculating `years_to_retirement` from age), renaming columns (`salary` ➡️ `annual_salary`), and multi-level sorting[cite: 17].
+* **Data Transformation:** Engineering new features (calculating `years_to_retirement` from age), renaming columns (`salary` -> `annual_salary`), and multi-level sorting[cite: 17].
 * **Missing Data Management:** Dynamically introducing missing values (`np.nan`), handling imputation via column means, and utilizing conditional row dropping (`dropna`)[cite: 17].
 * **Advanced Filtering & Selection:** Applying conditional boolean masks (e.g., filtering employees over age 30) and subsetting specific columns[cite: 17].
 * **Group-Based Aggregation:** Using `.groupby()` combined with `.mean()` and `.round()` to calculate and rank average departmental salaries[cite: 17].
