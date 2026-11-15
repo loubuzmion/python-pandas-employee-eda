@@ -1,5 +1,5 @@
 # python-pandas-employee-eda
-# 🐼 Python & Pandas: Employee Exploratory Data Analysis (EDA)
+# Python & Pandas: Employee Exploratory Data Analysis (EDA)
 
 A practical data wrangling and Exploratory Data Analysis (EDA) project built using Python and the Pandas library. This notebook walks through foundational data manipulation techniques on a simulated HR employee dataset.
 
@@ -15,7 +15,7 @@ This project demonstrates core data science and data engineering operations in P
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 The dataset models an organization of 20 employees across various departments (HR, Engineering, Marketing, Finance, and Sales)[cite: 17]:
 * `employee_id`: Unique identifier (1–20)[cite: 17]
 * `name`: Employee first name[cite: 17]
@@ -26,12 +26,12 @@ The dataset models an organization of 20 employees across various departments (H
 
 ---
 
-## 🚀 Key Analytical Findings
+## Key Analytical Findings
 * **Departmental Salary Rankings:** Grouping and averaging annual salaries revealed that **Finance** leads the organization with the highest average salary ($91,250), followed by Engineering ($82,000), Sales ($81,750), Marketing ($80,000), and HR ($66,667)[cite: 17].
 * **Workforce Age & Experience Distribution:** The average employee age across the dataset is 37.6 years with an average tenure/experience of 7.05 years[cite: 17].
 
 ---
 
-## 💻 How to View / Run
+## How to View / Run
 1. Clone the repository or download the `.ipynb` file.
 2. Open the notebook in **Jupyter Notebook**, **JupyterLab**, or directly view it natively rendered in your **GitHub** browser interface[cite: 17].
