@@ -34,4 +34,4 @@ The dataset models an organization of 20 employees across various departments (H
 
 ## How to View / Run
 1. Clone the repository or download the `.ipynb` file.
-2. Open the notebook in **Jupyter Notebook**, **JupyterLab**, or directly view it natively rendered in your **GitHub** browser interface[cite: 17].
+2. Open the notebook in **Jupyter Notebook**, **JupyterLab**, or directly view it natively rendered in your **GitHub** browser interface.
