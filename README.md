@@ -1,3 +1,4 @@
+![Employee Data Manipulation](employee-data-manipulation.jpg)
 # Employee Data Exploration & Manipulation with Pandas
 
 Exploring, cleaning, transforming, and aggregating an employee dataset using **Pandas** and **NumPy**, built in a Microsoft Fabric notebook with Python.
