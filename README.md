@@ -88,9 +88,3 @@ Python 3.15, Pandas, NumPy, Microsoft Fabric notebooks.
 ## Conclusion
 
 This project demonstrates a complete end-to-end Pandas data wrangling workflow—from inspecting raw records and engineering new features to comparing missing-data handling strategies and aggregating departmental salaries[cite: 2]. Among the cleaned employee cohort, **Finance** commands the highest average compensation ($91,250) while **HR** trails ($66,667), illustrating how both tenure and missing-value treatment directly shape summary analytics.
-
-## How to Run
-
-1. Clone this repository.
-2. Install dependencies: `pip install pandas numpy`
-3. Open `Mission 2 - Exploring and Analyzing Data with Pandas.ipynb` in Jupyter or a Microsoft Fabric notebook environment and run all cells.
