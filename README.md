@@ -19,7 +19,7 @@ The goal is to perform foundational Exploratory Data Analysis (EDA) and data wra
 
 ## Tools & Libraries
 
-Python 3.12, pandas, NumPy, Microsoft Fabric notebooks.
+Python 3.15, Pandas, NumPy, Microsoft Fabric notebooks.
 
 ## Approach
 
